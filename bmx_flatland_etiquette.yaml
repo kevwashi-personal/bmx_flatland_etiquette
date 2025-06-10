@@ -8,12 +8,17 @@ general_etiquette_principles:
 riding_spot_etiquette:
 
 contest_spectator_etiquette:
+  respectful_cheer: "Cheer only after a trick or combo is over, and avoid cheering for bad tricks or combos."
+  applaud: "Applaud good tricks and acknowledge long combos."
+  walking: "Avoid walking on or near the riding spot during runs."
+  phone_use: "Phones should be on silent and avoid making or taking calls during runs"
+  photography: "While taking photos is fine, ensure the camera is silent and avoid using flash."
 
 photographer_and_videographer_etiquette:
   consent:
   # photographers and videographers must have consent prior to filming.
-    - implied # A BMXer attending a national or international event has given implied consent to be filmed.
-    - expressed # Outside of national and international BMX events, A BMXer must verbally express consent to being filmed before filming can take place.
+    implied: "A BMXer attending a national or international event has given implied consent to be filmed."
+    expressed: "Outside of national and international BMX events, A BMXer must verbally express consent to being filmed before filming can take place"
 
   
 
