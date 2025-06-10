@@ -12,7 +12,7 @@ riding_spot_etiquette:
     clean_up: "Make sure to tidy up your belongings and clean up any messes you make."
     graciousness: "Thank the rider for sharing their personal spot with you."
   jam_circle:
-    - One rider in the circle at a time
+    - Only one rider in the circle at a time
     - Wait your turn to enter the circle
     - After completing one trick attempt, whether landed or not, promptly exit the circle
     - No snaking, cutting someone off or taking their turn
