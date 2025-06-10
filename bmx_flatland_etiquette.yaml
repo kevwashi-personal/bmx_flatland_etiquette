@@ -10,7 +10,12 @@ riding_spot_etiquette:
 contest_spectator_etiquette:
 
 photographer_and_videographer_etiquette:
+  consent:
+  # photographers and videographers must have consent prior to filming.
+    - implied # A BMXer attending a national or international event has given implied consent to be filmed.
+    - expressed # Outside of national and international BMX events, A BMXer must verbally express consent to being filmed before filming can take place.
 
+  
 
 
 
