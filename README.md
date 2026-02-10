@@ -3,7 +3,7 @@
 # BFEaC
 BMX Flatland Etiquette as Code
 
-BFEaC is an Open Source project to codify BMX Flatland etiquette.
+BFEaC is an Open Source project to define BMX Flatland etiquette through machine-readable definition files.
 
 ## Description
 
