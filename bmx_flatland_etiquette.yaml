@@ -29,7 +29,20 @@ contest_spectator_etiquette:
     The podium shoud be treated with reverence.
     The podium is for acknowledging the victory of the top three finishers.
     It is disrepectful to use the podium as a sitting bench to spectate from.
-    Only sit in designated audience seating.  
+    Only sit in designated audience seating.
+  words_of_encouragement:
+    # Some contest riders are inspired and energized by hearing words of encouragement shouted at them during their contest run.
+    # Other contest riders are annoyed, distracted, or incensed by having  words of encouragement shouted at them during their contest run.
+    use_of_empathy: "Spectators must use their powers of empathy to determine the reacation of the rider before shouting words of encouragement at the rider"
+    examples:
+      - Keep going
+      - You got this
+      - I believe in you
+      - Do not give up
+      - Try Again
+      - Trust yourself
+      - Take a deep breath
+
 
 photographer_and_videographer_etiquette:
   consent:
